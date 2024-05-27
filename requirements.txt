@@ -1,0 +1,7 @@
+pandas
+numpy
+loguru
+fastapi == 0.111.0
+uvicorn
+urllib3
+catboost
